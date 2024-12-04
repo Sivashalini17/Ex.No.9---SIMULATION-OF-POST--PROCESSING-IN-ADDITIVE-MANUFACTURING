@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE:4/12/24 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,21 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![1234_1](![image](https://github.com/user-attachments/assets/f23fef50-e343-4a4f-ab64-9a69f0b4cc50))
+![1234_2](![image](https://github.com/user-attachments/assets/6b875f42-fdc4-4d6c-9c6b-eca35aff53fc))
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![1234_1](![image](https://github.com/user-attachments/assets/dda7ae4e-b0e7-41fc-b9ae-3f0cc2f3a0cf))
+![1234_2](![image](https://github.com/user-attachments/assets/8221d7c1-f729-4df5-81c5-c3108c0c9419))
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![123_1](![image](https://github.com/user-attachments/assets/ba428161-26db-4948-8800-80ce8c53b744))
+![123_2](![image](https://github.com/user-attachments/assets/9600d436-f3c8-40a7-8cdd-f9f3ac0edcde))
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:siva shalini.s
+### Register Number:24009860
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
